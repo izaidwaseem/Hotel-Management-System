@@ -1,0 +1,12 @@
+﻿  Customer.cpp
+C:\Users\Muhammad Ibrahim\source\repos\Hotel Management System\Hotel Management System\Customer.cpp(165,9): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+  Hotel.cpp
+  JrSuite.cpp
+  Moderate.cpp
+  Rooms.cpp
+  driver.cpp
+  Standard.cpp
+  Suite.cpp
+  Superior.cpp
+  Generating Code...
+  Hotel Management System.vcxproj -> C:\Users\Muhammad Ibrahim\source\repos\Hotel Management System\Debug\Hotel Management System.exe
